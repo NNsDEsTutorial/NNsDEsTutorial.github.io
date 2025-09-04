@@ -14,11 +14,11 @@ subtitle:
     - Challenges of Numerical Methods
     - Physics-Informed Neural Networks
     - Hands-on with the DeepXDE Library
-3. Neural Networks for Modelling Differential Equations **(16:30 - 17:00)**
+3. Neural Networks for Modelling Differential Equations **(17:00 - 17:30)**
     - Challenges on Differential Equations Formulation for Describing Real-world Systems
     - Neural Ordinary Differential Equations
     - Hands-on with the Torchdiffeq Library
-4. Wrap-up **(17:00 - 17:15)**
+4. Wrap-up **(17:30 - 17:45)**
     - Physics-Informed Neural Networks versus Neural Ordinary Differential Equations
     - What's Next?
 
