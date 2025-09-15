@@ -2,4 +2,4 @@
 
 The slides used at the tutorial can be accessed below:
 
-[Tutorial Slides](assets/Workshop_ECAI_2024.pdf)
+[Tutorial Slides](assets/Workshop_ECML_2025.pdf)
